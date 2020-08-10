@@ -437,7 +437,7 @@ var ctxConfig_TaiwanAllCases = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
@@ -488,7 +488,7 @@ var ctxConfig_CityCases = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
@@ -533,7 +533,7 @@ var ctxConfig_TemperatureCase = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
@@ -585,7 +585,7 @@ var ctxConfig_RainCase = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
@@ -637,7 +637,7 @@ var ctxConfig_PoliceCase = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
@@ -680,7 +680,7 @@ var ctxConfig_PoliceCaseExt = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
@@ -728,7 +728,7 @@ var ctxConfig_CasePie = {
     ]
     },
     options: {
-        // responsive: true,
+        responsive: true,
         // maintainAspectRatio: false,
         scales: {
             yAxes: [{
